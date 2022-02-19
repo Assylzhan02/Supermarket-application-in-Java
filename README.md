@@ -1,3 +1,2 @@
-# supermarket
-This project made by Assylzhan Tynybek and Nazerke Mynbayeva
-From ISNS-1902 
+# Supermarket application in Java
+This application made by Tynybek Assylzhan and Mynbayeva Nazerke, using Java and MySQL. It illustrates a structure of supermarket.
